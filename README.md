@@ -1,3 +1,3 @@
 # hello-world
 first repository
-Hello world! My name is Scaarlet.
+Hello world! My name is Scarlet.
